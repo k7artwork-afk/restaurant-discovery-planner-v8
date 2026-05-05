@@ -1,0 +1,6 @@
+{
+  "appId": "com.k7artwork.restaurantfinderplanner",
+  "appName": "Restaurant Finder and Planner",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
